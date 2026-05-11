@@ -1,4 +1,4 @@
-
+Enhance Affinity Designer for macOS with rare Affinity Designer for macOS Extension | layer styles + blend modes, the #1 extension. Includes layer styles and blend modes for a
 
 
 
